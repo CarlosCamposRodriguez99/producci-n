@@ -1,0 +1,579 @@
+{
+  "Movex": {
+    "imagen": "/img/fabricas/fabrica-movex.webp",
+    "logo": "/img/marcas/movex.webp",
+    "titulo": "LA EMPRESA",
+    "texto": "Nacida de la asociación entre sólidas realidades empresariales ya activas desde hace décadas en el sector de la producción industrial, Movex es una empresa dinámica y versátil, basada en la voluntad de diseñar y producir artículos de máxima calidad, combinando mejor prestaciones técnicas y diseño, para ofrecer a sus clientes soluciones realmente innovadoras y un servicio impecable. \nSituada en el distrito productivo de Castelli Calepio (BG), la empresa cuenta con un amplio catálogo en constante evolución, que incluye cadenas y alfombras modulares, curvas, engranajes y soportes con rodamientos para de satisfacer cada tipo de aplicación aportando a cualquier instalación una mayor eficiencia y seguridad.",
+    "categorias": [
+      {
+        "title": "diseñadas para tener un rendimiento excepcional",
+        "productos": [
+          {
+            "title": "812-GT-815-GT-CADENA-RECTA",
+            "image": "/img/acero/812-gt-815-gt-cadena-recta.jpg"
+          },
+          {
+            "title": "812-815-CADENA-RECTILÍNEA",
+            "image": "/img/acero/812-815-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "815-MINI GT-CADENA-RECTILÍNEA",
+            "image": "/img/acero/815mini-gt-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "815-TAB-GT-CADENA-RECTILÍNEA",
+            "image": "/img/acero/815tab-gt-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "881-M-GT-CADENA-CURVILÍNEA",
+            "image": "/img/acero/881m-gt-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "881-TAB-CADENA-CURVILÍNEA",
+            "image": "/img/acero/881tab-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "1874-TAB-CADENA-CURVILÍNEA",
+            "image": "/img/acero/1874tab-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "8157-GT-CADENA-RECTILÍNEA",
+            "image": "/img/acero/8157gt-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "8857-M-CADENA-CURVILÍNEA",
+            "image": "/img/acero/8857m-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "8857-M-CADENA-CURVILÍNEA",
+            "image": "/img/acero/8857m-gt.jpg"
+          },
+          {
+            "title": "63MF-CADENA-CURVILINEA",
+            "image": "/img/modular/63-mf-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "820-CADENA-RECTILÍNEA",
+            "image": "/img/modular/820-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "821-CADENA-RECTILÍNEA",
+            "image": "/img/modular/821-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "821-GT-CADENA-RECTILÍNEA",
+            "image": "/img/modular/821GT-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "821LBP-CADENA-RECTILÍNEA",
+            "image": "/img/modular/821LBP-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "828-PFX-CADENA-RECTA",
+            "image": "/img/modular/828pfx-cadena-recta.jpg"
+          },
+          {
+            "title": "878-TAB-CADENA-CURVILÍNEA",
+            "image": "/img/modular/878tab-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "888-TAB-CADENA-CURVILÍNEA",
+            "image": "/img/modular/888tab-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "888-TAB-GT-CADENA-CURVILÍNEA",
+            "image": "/img/modular/888tab-gt-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "1873-GRIPPER-GS1-CADENA-CURVILÍNEA",
+            "image": "/img/modular/1873-gripper-gs1-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "1873-GRIPPER-GS2-CADENA-CURVILÍNEA",
+            "image": "/img/modular/1873-gripper-gs2-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "1873-GT-CADENA-CURVILÍNEA",
+            "image": "/img/modular/1873-gt-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "8257-CADENA-RECTILÍNEA",
+            "image": "/img/modular/8257-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "8257-GT-CADENA-RECTILÍNEA",
+            "image": "/img/modular/8257-gt-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "SP-1883-CADENA-CURVILÍNEA",
+            "image": "/img/modular/sp-1883-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "260-M-FT-PFX-CADENA-CURVILÍNEA-MAGNÉTICA",
+            "image": "/img/mallas/260-m-ft-pfx-cadena-curvilinea-magnetica.jpg"
+          },
+          {
+            "title": "550-FT-PFX-ALFOMBRA-MODULAR",
+            "image": "/img/mallas/550-ft-pfx-alfombra-modular.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-520-FG",
+            "image": "/img/mallas/alfombra-modular-520-fg.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-520-GT",
+            "image": "/img/mallas/alfombra-modular-520-gt.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-522-HD-FT",
+            "image": "/img/mallas/alfombra-modular-522hd-ft.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-525-HD-FT",
+            "image": "/img/mallas/alfombra-modular-525-hd-ft.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-525-HD-GT-H-8,7-M-85",
+            "image": "/img/mallas/alfombra-modular-525-hd-gt-h-8-7-m-85.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-530-PRO-LBP",
+            "image": "/img/mallas/alfombra-modular-530-pro-lbp.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-551-PRO-LBP-H-12,7-M-85",
+            "image": "/img/mallas/alfombra-modular.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-553-FLEXTOP",
+            "image": "/img/mallas/alfombra-modular-553-flextop.jpg"
+          },
+          {
+            "title": "260-M-FT-PFX-CADENA-CURVILÍNEA-MAGNÉTICA",
+            "image": "/img/empujadores/260-m-ft-cadena-curvilinea-magnetica.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-550-FG",
+            "image": "/img/empujadores/alfombra-modular-550-fg.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-550-FTT-H-8,7-M-85",
+            "image": "/img/empujadores/alfombra-modular-550-ftt-h-8-7-m-85.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-550-PRO-M",
+            "image": "/img/empujadores/alfombra-modular-550-pro-m.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-CURVILÍNEA-ZERO-CONTACT-PRO",
+            "image": "/img/empujadores/alfombra-modular-curvilinea-zero-contact-pro.jpg"
+          }
+        ]
+      },
+      {
+        "title": "modulares",
+        "productos": [
+          {
+            "title": "63MF-CADENA-CURVILINEA",
+            "image": "/img/modular/63-mf-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "820-CADENA-RECTILÍNEA",
+            "image": "/img/modular/820-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "821-CADENA-RECTILÍNEA",
+            "image": "/img/modular/821-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "821-GT-CADENA-RECTILÍNEA",
+            "image": "/img/modular/821GT-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "821LBP-CADENA-RECTILÍNEA",
+            "image": "/img/modular/821LBP-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "828-PFX-CADENA-RECTA",
+            "image": "/img/modular/828pfx-cadena-recta.jpg"
+          },
+          {
+            "title": "878-TAB-CADENA-CURVILÍNEA",
+            "image": "/img/modular/878tab-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "888-TAB-CADENA-CURVILÍNEA",
+            "image": "/img/modular/888tab-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "888-TAB-GT-CADENA-CURVILÍNEA",
+            "image": "/img/modular/888tab-gt-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "1873-GRIPPER-GS1-CADENA-CURVILÍNEA",
+            "image": "/img/modular/1873-gripper-gs1-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "1873-GRIPPER-GS2-CADENA-CURVILÍNEA",
+            "image": "/img/modular/1873-gripper-gs2-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "1873-GT-CADENA-CURVILÍNEA",
+            "image": "/img/modular/1873-gt-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "8257-CADENA-RECTILÍNEA",
+            "image": "/img/modular/8257-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "8257-GT-CADENA-RECTILÍNEA",
+            "image": "/img/modular/8257-gt-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "SP-1883-CADENA-CURVILÍNEA",
+            "image": "/img/modular/sp-1883-cadena-curvilinea.jpg"
+          }
+        ]
+      },
+      {
+        "title": "acero",
+        "productos": [
+          {
+            "title": "812-GT-815-GT-CADENA-RECTA",
+            "image": "/img/acero/812-gt-815-gt-cadena-recta.jpg"
+          },
+          {
+            "title": "812-815-CADENA-RECTILÍNEA",
+            "image": "/img/acero/812-815-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "815-MINI GT-CADENA-RECTILÍNEA",
+            "image": "/img/acero/815mini-gt-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "815-TAB-GT-CADENA-RECTILÍNEA",
+            "image": "/img/acero/815tab-gt-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "881-M-GT-CADENA-CURVILÍNEA",
+            "image": "/img/acero/881m-gt-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "881-TAB-CADENA-CURVILÍNEA",
+            "image": "/img/acero/881tab-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "1874-TAB-CADENA-CURVILÍNEA",
+            "image": "/img/acero/1874tab-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "8157-GT-CADENA-RECTILÍNEA",
+            "image": "/img/acero/8157gt-cadena-rectilinea.jpg"
+          },
+          {
+            "title": "8857-M-CADENA-CURVILÍNEA",
+            "image": "/img/acero/8857m-cadena-curvilinea.jpg"
+          },
+          {
+            "title": "8857-M-CADENA-CURVILÍNEA",
+            "image": "/img/acero/8857m-gt.jpg"
+          }
+ 
+        ]
+      },
+      {
+        "title": "mallas",
+        "productos": [
+          {
+            "title": "260-M-FT-PFX-CADENA-CURVILÍNEA-MAGNÉTICA",
+            "image": "/img/mallas/260-m-ft-pfx-cadena-curvilinea-magnetica.jpg"
+          },
+          {
+            "title": "550-FT-PFX-ALFOMBRA-MODULAR",
+            "image": "/img/mallas/550-ft-pfx-alfombra-modular.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-520-FG",
+            "image": "/img/mallas/alfombra-modular-520-fg.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-520-GT",
+            "image": "/img/mallas/alfombra-modular-520-gt.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-522-HD-FT",
+            "image": "/img/mallas/alfombra-modular-522hd-ft.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-525-HD-FT",
+            "image": "/img/mallas/alfombra-modular-525-hd-ft.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-525-HD-GT-H-8,7-M-85",
+            "image": "/img/mallas/alfombra-modular-525-hd-gt-h-8-7-m-85.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-530-PRO-LBP",
+            "image": "/img/mallas/alfombra-modular-530-pro-lbp.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-551-PRO-LBP-H-12,7-M-85",
+            "image": "/img/mallas/alfombra-modular.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-553-FLEXTOP",
+            "image": "/img/mallas/alfombra-modular-553-flextop.jpg"
+          }
+        ]
+      },
+      {
+        "title": "empujadores",
+        "productos": [
+          {
+            "title": "260-M-FT-PFX-CADENA-CURVILÍNEA-MAGNÉTICA",
+            "image": "/img/empujadores/260-m-ft-cadena-curvilinea-magnetica.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-550-FG",
+            "image": "/img/empujadores/alfombra-modular-550-fg.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-550-FTT-H-8,7-M-85",
+            "image": "/img/empujadores/alfombra-modular-550-ftt-h-8-7-m-85.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-550-PRO-M",
+            "image": "/img/empujadores/alfombra-modular-550-pro-m.jpg"
+          },
+          {
+            "title": "ALFOMBRA-MODULAR-CURVILÍNEA-ZERO-CONTACT-PRO",
+            "image": "/img/empujadores/alfombra-modular-curvilinea-zero-contact-pro.jpg"
+          }
+ 
+        ]
+      }
+
+    ]
+  },
+  "Flexlink": {
+    "imagen": "/img/fabricas/fabrica-flexlink.webp",
+    "logo": "/img/marcas/color-flex.webp",
+    "titulo": "LA EMPRESA",
+    "texto": "Hace cuarenta años, FlexLink transformó la producción industrial gracias a sus innovadores transportadores modulares que permitieron a los productores crear líneas de producción flexibles.\nEste concepto de fabricación de transportadores se ha diseñado, ampliado y comercializado a nivel mundial desde la década de los 80. En la actualidad, es uno de los principales expertos en transportadores de cadena y soluciones de flujo para líneas de producción. \nAdemás de la fabricación de transportadores, FlexLink es un proveedor de soluciones completas para flujos de producción automatizados que ofrece diseño e ingeniería personalizada, software y soporte, adaptándose al movimiento de materiales.",
+    "categorias": [
+      {
+        "title": "Bandas Transportadoras",
+        "productos": [
+          {
+            "title": "3924166",
+            "image": "/img/flexlink/3924166.jpg"
+          },
+          {
+            "title": "3924474",
+            "image": "/img/flexlink/3924474.jpg"
+          },
+          {
+            "title": "5116338",
+            "image": "/img/flexlink/5116338.jpg"
+          },
+          {
+            "title": "5116341",
+            "image": "/img/flexlink/5116341.jpg"
+          },
+          {
+            "title": "XLTE 5 B",
+            "image": "/img/flexlink/XLTE 5 B.jpg"
+          },
+          {
+            "title": "XLTE 5 C",
+            "image": "/img/flexlink/XLTE 5 C.jpg"
+          },
+          {
+            "title": "XLTE 5 D",
+            "image": "/img/flexlink/XLTE 5 D.jpg"
+          },
+          {
+            "title": "XLTP 5",
+            "image": "/img/flexlink/XLTP 5.jpg"
+          },
+          {
+            "title": "XSTP5F",
+            "image": "/img/flexlink/XSTP5F.jpg"
+          },
+          {
+            "title": "XUTP 3A45 C",
+            "image": "/img/flexlink/XUTP 3A45 C.jpg"
+          }
+
+      
+
+        ]
+      }
+    ]
+
+  },
+  "Eurobelt": {
+    "imagen": "/img/fabricas/fabrica-eurobelt.webp",
+    "logo": "/img/marcas/color-eurobelt.webp",
+    "titulo": "LA EMPRESA",
+    "texto": "AFHER EUROBELT S.A. fue fundada en 1972. Actualmente es una empresa líder en la fabricación de bandas plásticas para el transporte de producto alimenticio e industrial. Ofrece una amplia línea de productos que dan respuesta a la práctica totalidad de las necesidades del transporte. \nLa calidad de nuestros productos se consigue mediante la utilización de equipos y materiales plásticos de ultima generación en todo el proceso de fabricación. Eurobelt realiza controles y ensayos de calidad en todos y cada uno de sus procesos, para poder ofrecerle el mejor producto del mercado. A través de las distintas plantas de fabricación y ensamblaje, damos servicio a todos nuestros clientes alrededor del mundo, ofreciendo los mejores plazos de entrega del mercado y sin coste adicional.",
+    "categorias": [
+      {
+        "title": "lideres en bandas transportadoras",
+        "productos": [
+          {
+            "title": "SERIE A24",
+            "image": "/img/eurobelt/SERIE A24.jpg"
+          },
+          {
+            "title": "SERIE B50",
+            "image": "/img/eurobelt/SERIE B50.jpg"
+          },
+          {
+            "title": "SERIE C12",
+            "image": "/img/eurobelt/SERIE C12.jpg"
+          },
+          {
+            "title": "SERIE E20",
+            "image": "/img/eurobelt/SERIE E20.jpg"
+          },
+          {
+            "title": "SERIE E30",
+            "image": "/img/eurobelt/SERIE E30.jpg"
+          },
+          {
+            "title": "SERIE E31",
+            "image": "/img/eurobelt/SERIE E31.jpg"
+          },
+          {
+            "title": "SERIE E32",
+            "image": "/img/eurobelt/SERIE E32.jpg"
+          },
+          {
+            "title": "SERIE E40",
+            "image": "/img/eurobelt/SERIE E40.jpg"
+          },
+          {
+            "title": "SERIE E41",
+            "image": "/img/eurobelt/SERIE E41.jpg"
+          },
+          {
+            "title": "SERIE E50",
+            "image": "/img/eurobelt/SERIE E50.jpg"
+          },
+          {
+            "title": "SERIE E80",
+            "image": "/img/eurobelt/SERIE E80.jpg"
+          },
+          {
+            "title": "SERIE E93",
+            "image": "/img/eurobelt/SERIE E93.jpg"
+          },
+          {
+            "title": "SERIE E925",
+            "image": "/img/eurobelt/SERIE E925.jpg"
+          },
+          {
+            "title": "SERIE Q50",
+            "image": "/img/eurobelt/SERIE Q50.jpg"
+          }
+        ]
+      } 
+    ]
+
+  },
+  "Intralox": {
+    "imagen": "/img/fabricas/fabrica-intralox.webp",
+    "logo": "/img/marcas/rojo-intralox.webp",
+    "titulo": "LA EMPRESA",
+    "texto": "Intralox es el proveedor líder de soluciones de transporte que ayuda a mover los productos más críticos del mundo. \nNuestra amplia cartera de tecnologías y servicios mejora la seguridad alimentaria, impulsa el comercio electrónico y resuelve desafíos para industrias que van desde el procesamiento de alimentos hasta la fabricación industrial, la logística y el manejo de materiales. \nEstamos constantemente pensando en los sistemas de transporte para que usted no tenga que hacerlo. Nuestros esfuerzos para ayudarle a superar las preocupaciones de manejo de productos, ya sea en un solo transportador o en toda su planta, impulsan nuestra cultura de innovación y mejora continua.",
+    "categorias": [
+      {
+        "title": "bandas transportadoras",
+        "productos": [
+          {
+            "title": "S100-Flush-Grid-belt",
+            "image": "/img/intralox/S100-Flush-Grid-belt_176px.jpg"
+          },
+          {
+            "title": "S400-Flush-Grid-belt",
+            "image": "/img/intralox/S400-Flush-Grid-belt_176px.jpg"
+          },
+          {
+            "title": "S550 Tight Transfer Flat Top-belt",
+            "image": "/img/intralox/S550 Tight Transfer Flat Top-belt.jpg"
+          },
+          {
+            "title": "S800-Flat-Top-belt",
+            "image": "/img/intralox/S800-Flat-Top-belt_176px.jpg"
+          },
+          {
+            "title": "S850-Seamfree-Min-Hinge-Flat-Top-belt",
+            "image": "/img/intralox/S850-Seamfree-Min-Hinge-Flat-Top-belt_176px.jpg"
+          },
+          {
+            "title": "S888-Medium-Slot-Belt",
+            "image": "/img/intralox/S888-Medium-Slot-Belt.jpg"
+          },
+          {
+            "title": "S900-Open-Grid-belt",
+            "image": "/img/intralox/S900-Open-Grid-belt_176px.jpg"
+          },
+          {
+            "title": "S1000 Flat Top wrap",
+            "image": "/img/intralox/S1000 Flat Top wrap.jpg"
+          },
+          {
+            "title": "S1100-Perforated-Flat-Top-belt",
+            "image": "/img/intralox/S1100-Perforated-Flat-Top-belt_176px.jpg"
+          },
+          {
+            "title": "S1400-Flat-Top-belt_176",
+            "image": "/img/intralox/S1400-Flat-Top-belt_176px.jpg"
+          },
+          {
+            "title": "S1500-Flush-Grid-belt",
+            "image": "/img/intralox/S1500-Flush-Grid-belt_176px.jpg"
+          },
+          {
+            "title": "S1700-Flush-Grid-belt",
+            "image": "/img/intralox/S1700-Flush-Grid-belt_176px.jpg"
+          },
+          {
+            "title": "S1900-Raised-Rib-belt",
+            "image": "/img/intralox/S1900-Raised-Rib-belt_176px.jpg"
+          },
+          {
+            "title": "S2100 Zero Tangent Radius Flat Top wrap",
+            "image": "/img/intralox/S2100 Zero Tangent Radius Flat Top wrap.jpg"
+          },
+          {
+            "title": "S2200-Radius-Flush-Grid-belt",
+            "image": "/img/intralox/S2200-Radius-Flush-Grid-belt_176px.jpg"
+          },
+          {
+            "title": "S2700-Spiralox-1.6-Radius-belt",
+            "image": "/img/intralox/S2700-Spiralox-1.6-Radius-belt_176px.jpg"
+          },
+          {
+            "title": "S2850-DirectDrive-Self-Stacker-belt",
+            "image": "/img/intralox/S2850-DirectDrive-Self-Stacker---belt.jpg"
+          },
+          {
+            "title": "S4009-Flush-Grid-belt",
+            "image": "/img/intralox/S4009-Flush-Grid-belt_176px.jpg"
+          },
+          {
+            "title": "S4400TRT",
+            "image": "/img/intralox/S4400TRT.jpg"
+          },
+          {
+            "title": "S4500FT-belt",
+            "image": "/img/intralox/S4500FT-(belt).jpg"
+          }
+
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+export default [
+    { css: '/img/maquinados/1.webp', height: 800, width: 900 },
+    { css: '/img/maquinados/2.webp', height: 500, width: 900 },
+    { css: '/img/maquinados/3.webp', height: 600, width: 400 },
+    { css: '/img/maquinados/4.webp', height: 1100, width: 600 },
+    { css: '/img/maquinados/5.webp', height: 650, width: 900 },
+    { css: '/img/maquinados/6.webp', height: 1000, width: 1000 },
+    { css: '/img/maquinados/7.webp', height: 400, width: 900 },
+    { css: '/img/maquinados/8.webp', height: 740, width: 600 },
+    { css: '/img/maquinados/9.webp', height: 600, width: 1200 },
+    { css: '/img/maquinados/10.webp', height: 550, width: 1000 },
+    { css: '/img/maquinados/11.webp', height: 1000, width: 1000 },
+    { css: '/img/maquinados/12.webp', height: 710, width: 900 },
+    { css: '/img/maquinados/13.webp', height: 700, width: 600 },
+    { css: '/img/maquinados/14.webp', height: 600, width: 1200 },
+    { css: '/img/maquinados/15.webp', height: 550, width: 1000 },
+];

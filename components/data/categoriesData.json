@@ -1,0 +1,334 @@
+{
+  "modulares": [
+    {
+      "title": "63MF-CADENA-CURVILINEA",
+      "image": "/img/modular/63-mf-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "820-CADENA-RECTILÍNEA",
+      "image": "/img/modular/820-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "821-CADENA-RECTILÍNEA",
+      "image": "/img/modular/821-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "821-GT-CADENA-RECTILÍNEA",
+      "image": "/img/modular/821GT-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "821LBP-CADENA-RECTILÍNEA",
+      "image": "/img/modular/821LBP-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "828-PFX-CADENA-RECTA",
+      "image": "/img/modular/828pfx-cadena-recta.jpg"
+    },
+    {
+      "title": "878-TAB-CADENA-CURVILÍNEA",
+      "image": "/img/modular/878tab-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "888-TAB-CADENA-CURVILÍNEA",
+      "image": "/img/modular/888tab-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "888-TAB-GT-CADENA-CURVILÍNEA",
+      "image": "/img/modular/888tab-gt-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "1873-GRIPPER-GS1-CADENA-CURVILÍNEA",
+      "image": "/img/modular/1873-gripper-gs1-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "1873-GRIPPER-GS2-CADENA-CURVILÍNEA",
+      "image": "/img/modular/1873-gripper-gs2-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "1873-GT-CADENA-CURVILÍNEA",
+      "image": "/img/modular/1873-gt-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "8257-CADENA-RECTILÍNEA",
+      "image": "/img/modular/8257-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "8257-GT-CADENA-RECTILÍNEA",
+      "image": "/img/modular/8257-gt-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "SP-1883-CADENA-CURVILÍNEA",
+      "image": "/img/modular/sp-1883-cadena-curvilinea.jpg"
+    }
+  ],
+  "diseñadas para tener un rendimiento excepcional": [
+    {
+      "title": "812-GT-815-GT-CADENA-RECTA",
+      "image": "/img/acero/812-gt-815-gt-cadena-recta.jpg"
+    },
+    {
+      "title": "812-815-CADENA-RECTILÍNEA",
+      "image": "/img/acero/812-815-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "815-MINI GT-CADENA-RECTILÍNEA",
+      "image": "/img/acero/815mini-gt-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "815-TAB-GT-CADENA-RECTILÍNEA",
+      "image": "/img/acero/815tab-gt-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "881-M-GT-CADENA-CURVILÍNEA",
+      "image": "/img/acero/881m-gt-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "881-TAB-CADENA-CURVILÍNEA",
+      "image": "/img/acero/881tab-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "1874-TAB-CADENA-CURVILÍNEA",
+      "image": "/img/acero/1874tab-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "8157-GT-CADENA-RECTILÍNEA",
+      "image": "/img/acero/8157gt-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "8857-M-CADENA-CURVILÍNEA",
+      "image": "/img/acero/8857m-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "8857-M-CADENA-CURVILÍNEA",
+      "image": "/img/acero/8857m-gt.jpg"
+    },
+    {
+      "title": "63MF-CADENA-CURVILINEA",
+      "image": "/img/modular/63-mf-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "820-CADENA-RECTILÍNEA",
+      "image": "/img/modular/820-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "821-CADENA-RECTILÍNEA",
+      "image": "/img/modular/821-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "821-GT-CADENA-RECTILÍNEA",
+      "image": "/img/modular/821GT-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "821LBP-CADENA-RECTILÍNEA",
+      "image": "/img/modular/821LBP-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "828-PFX-CADENA-RECTA",
+      "image": "/img/modular/828pfx-cadena-recta.jpg"
+    },
+    {
+      "title": "878-TAB-CADENA-CURVILÍNEA",
+      "image": "/img/modular/878tab-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "888-TAB-CADENA-CURVILÍNEA",
+      "image": "/img/modular/888tab-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "888-TAB-GT-CADENA-CURVILÍNEA",
+      "image": "/img/modular/888tab-gt-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "1873-GRIPPER-GS1-CADENA-CURVILÍNEA",
+      "image": "/img/modular/1873-gripper-gs1-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "1873-GRIPPER-GS2-CADENA-CURVILÍNEA",
+      "image": "/img/modular/1873-gripper-gs2-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "1873-GT-CADENA-CURVILÍNEA",
+      "image": "/img/modular/1873-gt-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "8257-CADENA-RECTILÍNEA",
+      "image": "/img/modular/8257-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "8257-GT-CADENA-RECTILÍNEA",
+      "image": "/img/modular/8257-gt-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "SP-1883-CADENA-CURVILÍNEA",
+      "image": "/img/modular/sp-1883-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "260-M-FT-PFX-CADENA-CURVILÍNEA-MAGNÉTICA",
+      "image": "/img/mallas/260-m-ft-pfx-cadena-curvilinea-magnetica.jpg"
+    },
+    {
+      "title": "550-FT-PFX-ALFOMBRA-MODULAR",
+      "image": "/img/mallas/550-ft-pfx-alfombra-modular.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-520-FG",
+      "image": "/img/mallas/alfombra-modular-520-fg.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-520-GT",
+      "image": "/img/mallas/alfombra-modular-520-gt.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-522-HD-FT",
+      "image": "/img/mallas/alfombra-modular-522hd-ft.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-525-HD-FT",
+      "image": "/img/mallas/alfombra-modular-525-hd-ft.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-525-HD-GT-H-8,7-M-85",
+      "image": "/img/mallas/alfombra-modular-525-hd-gt-h-8-7-m-85.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-530-PRO-LBP",
+      "image": "/img/mallas/alfombra-modular-530-pro-lbp.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-551-PRO-LBP-H-12,7-M-85",
+      "image": "/img/mallas/alfombra-modular.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-553-FLEXTOP",
+      "image": "/img/mallas/alfombra-modular-553-flextop.jpg"
+    },
+    {
+      "title": "260-M-FT-PFX-CADENA-CURVILÍNEA-MAGNÉTICA",
+      "image": "/img/empujadores/260-m-ft-cadena-curvilinea-magnetica.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-550-FG",
+      "image": "/img/empujadores/alfombra-modular-550-fg.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-550-FTT-H-8,7-M-85",
+      "image": "/img/empujadores/alfombra-modular-550-ftt-h-8-7-m-85.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-550-PRO-M",
+      "image": "/img/empujadores/alfombra-modular-550-pro-m.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-CURVILÍNEA-ZERO-CONTACT-PRO",
+      "image": "/img/empujadores/alfombra-modular-curvilinea-zero-contact-pro.jpg"
+    }
+    
+  ],
+  "acero": [
+    {
+      "title": "812-GT-815-GT-CADENA-RECTA",
+      "image": "/img/acero/812-gt-815-gt-cadena-recta.jpg"
+    },
+    {
+      "title": "812-815-CADENA-RECTILÍNEA",
+      "image": "/img/acero/812-815-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "815-MINI GT-CADENA-RECTILÍNEA",
+      "image": "/img/acero/815mini-gt-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "815-TAB-GT-CADENA-RECTILÍNEA",
+      "image": "/img/acero/815tab-gt-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "881-M-GT-CADENA-CURVILÍNEA",
+      "image": "/img/acero/881m-gt-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "881-TAB-CADENA-CURVILÍNEA",
+      "image": "/img/acero/881tab-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "1874-TAB-CADENA-CURVILÍNEA",
+      "image": "/img/acero/1874tab-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "8157-GT-CADENA-RECTILÍNEA",
+      "image": "/img/acero/8157gt-cadena-rectilinea.jpg"
+    },
+    {
+      "title": "8857-M-CADENA-CURVILÍNEA",
+      "image": "/img/acero/8857m-cadena-curvilinea.jpg"
+    },
+    {
+      "title": "8857-M-CADENA-CURVILÍNEA",
+      "image": "/img/acero/8857m-gt.jpg"
+    }
+  ],
+  "mallas": [
+    {
+      "title": "260-M-FT-PFX-CADENA-CURVILÍNEA-MAGNÉTICA",
+      "image": "/img/mallas/260-m-ft-pfx-cadena-curvilinea-magnetica.jpg"
+    },
+    {
+      "title": "550-FT-PFX-ALFOMBRA-MODULAR",
+      "image": "/img/mallas/550-ft-pfx-alfombra-modular.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-520-FG",
+      "image": "/img/mallas/alfombra-modular-520-fg.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-520-GT",
+      "image": "/img/mallas/alfombra-modular-520-gt.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-522-HD-FT",
+      "image": "/img/mallas/alfombra-modular-522hd-ft.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-525-HD-FT",
+      "image": "/img/mallas/alfombra-modular-525-hd-ft.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-525-HD-GT-H-8,7-M-85",
+      "image": "/img/mallas/alfombra-modular-525-hd-gt-h-8-7-m-85.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-530-PRO-LBP",
+      "image": "/img/mallas/alfombra-modular-530-pro-lbp.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-551-PRO-LBP-H-12,7-M-85",
+      "image": "/img/mallas/alfombra-modular.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-553-FLEXTOP",
+      "image": "/img/mallas/alfombra-modular-553-flextop.jpg"
+    }
+
+  ],
+  "empujadores": [
+    {
+      "title": "260-M-FT-PFX-CADENA-CURVILÍNEA-MAGNÉTICA",
+      "image": "/img/empujadores/260-m-ft-cadena-curvilinea-magnetica.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-550-FG",
+      "image": "/img/empujadores/alfombra-modular-550-fg.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-550-FTT-H-8,7-M-85",
+      "image": "/img/empujadores/alfombra-modular-550-ftt-h-8-7-m-85.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-550-PRO-M",
+      "image": "/img/empujadores/alfombra-modular-550-pro-m.jpg"
+    },
+    {
+      "title": "ALFOMBRA-MODULAR-CURVILÍNEA-ZERO-CONTACT-PRO",
+      "image": "/img/empujadores/alfombra-modular-curvilinea-zero-contact-pro.jpg"
+    }
+  ]
+}
